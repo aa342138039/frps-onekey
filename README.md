@@ -9,7 +9,7 @@ Frps服务端一键配置脚本，Frp最新版本：0.47.0
 
 ## Frps-Onekey-Install-Shell For CentOS/Debian/Ubuntu/Fedora (32bit/64bit)
 
-### Install（安装）
+### Install（安装arm  sh文件125更改）
 
 #### Gitee
 ```Bash
